@@ -1,0 +1,5 @@
+name: git-commit-message
+version: 0.0.1
+description: Add environment variable $WERCKER_GIT_COMMIT_MESSAGE. It has the commit message.
+keywords:
+  - git
